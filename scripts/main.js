@@ -1,5 +1,5 @@
-let images = 25;
-let gameSize = 50;
+let images = 24;
+let gameSize = 48;
 let folder = 'images';
 let cardStyle = 'junior';
 let cardSize = 'large';
